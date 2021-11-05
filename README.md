@@ -1,4 +1,4 @@
-# new_version_news_portal
+# new_portal_news
 News portal
 
 The application is a news portal. The following technologies were used: Servlets, Java Server Pages (JSP), Java Server Pages Standard Tag Library (JSTL), Expression Language, The Java Database Connectivity API (JDBC).
